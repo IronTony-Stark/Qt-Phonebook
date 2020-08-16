@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/StyleSettings/qmldir</file>
+        <file>qml/StyleSettings/Style.qml</file>
+        <file>qml/ContactsModule/qmldir</file>
+        <file>qml/ResourceProvider/qmldir</file>
+        <file>qml/ResourceProvider/Resources.qml</file>
+        <file>qml/resources/user-black.svg</file>
+        <file>qml/resources/user-white.svg</file>
+        <file>qml/ContactsModule/Dialog/ContactDialog.qml</file>
+        <file>qml/ContactsModule/Dialog/ContactForm.qml</file>
+        <file>qml/ContactsModule/Dialog/qmldir</file>
+        <file>qml/ContactsModule/ListView/ContactsDelegate.qml</file>
+        <file>qml/ContactsModule/ListView/ContactsView.qml</file>
+        <file>qml/ContactsModule/ListView/qmldir</file>
+        <file>qml/ContactsModule/Utils/BaseText.qml</file>
+        <file>qml/ContactsModule/Utils/ImageBubble.qml</file>
+        <file>qml/ContactsModule/Utils/qmldir</file>
+        <file>qml/ContactsModule/Utils/RoundImage.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/ContactsModule/Dialog/PhoneDialog.qml</file>
+        <file>qml/ContactsModule/ListView/PhonesDelegate.qml</file>
+        <file>qml/ContactsModule/Dialog/PhoneForm.qml</file>
+        <file>qml/SortFilterModel.qml</file>
+    </qresource>
+</RCC>

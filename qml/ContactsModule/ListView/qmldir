@@ -1,0 +1,4 @@
+module ListView
+ContactsView 1.0 ContactsView.qml
+ContactsDelegate 1.0 ContactsDelegate.qml
+PhonesDelegate 1.0 PhonesDelegate.qml

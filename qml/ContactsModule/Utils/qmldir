@@ -1,0 +1,4 @@
+module Utils
+BaseText 1.0 BaseText.qml
+ImageBubble 1.0 ImageBubble.qml
+SortFilterMode 1.0 SortFilterMode.qml
